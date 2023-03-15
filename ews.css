@@ -1,0 +1,71 @@
+.imagediv {
+    margin-left: 3%;
+    padding-left: 5%;
+    margin-right: 3%;
+    padding-right: 5%;
+    margin-bottom: 1%;
+    padding-bottom: 0.2%;
+}
+
+.textdiv {
+    color: aliceblue;
+    margin-top: 0.5%;
+    padding-top: 1.5%;
+    margin-left: 3%;
+    padding-left: 5%;
+    margin-right: 3%;
+    padding-right: 5%;
+    margin-bottom: 1%;
+    padding-bottom: 0.2%;
+    background-image: url("resources/AI\ ML\ DL.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+.Ewastediv {
+    color: aliceblue;
+    margin-top: 0.5%;
+    padding-top: 1.5%;
+    margin-left: 3%;
+    padding-left: 5%;
+    margin-right: 3%;
+    padding-right: 5%;
+    margin-bottom: 1%;
+    padding-bottom: 0.2%;
+    background-image: url("/AI\ ML\ DL.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.hazarddiv {
+    color: aliceblue;
+    margin-top: 0.5%;
+    padding-top: 1.5%;
+    margin-left: 3%;
+    padding-left: 5%;
+    margin-right: 3%;
+    padding-right: 5%;
+    margin-bottom: 1%;
+    padding-bottom: 0.2%;
+    background-image: url("/AI\ ML\ DL.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.blockquote {
+    color: chartreuse;
+    font-size: 35px;
+}
+
+.blockquote-footer {
+    color: darkgreen;
+    margin-bottom: 5%;
+    font-size: 25px;
+}
+
+.display-6 {
+    margin-bottom: 2%;
+    color: coral;
+}
